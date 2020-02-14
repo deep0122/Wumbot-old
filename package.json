@@ -1,0 +1,19 @@
+{
+  "name": "wumbot",
+  "version": "0.0.1",
+  "description": "Emote Counter",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deep Patel",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "filepond-plugin-image-resize": "^2.0.1",
+    "filepond-plugin-image-transform": "^3.2.1",
+    "html-entities": "^1.2.1",
+    "nodemon": "^1.18.10",
+    "xml2js": "^0.4.19"
+  }
+}

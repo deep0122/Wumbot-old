@@ -1,0 +1,10 @@
+{
+    //Discord App Token
+    "token": "", 
+
+    //Command Prefix
+    "prefix": "#",
+
+    //Wolfram Alpha API
+    "WA_AppID": ""
+}
